@@ -29,4 +29,4 @@ We implement appropriate technical and organizational measures to protect your p
 You have the right to access, update, or delete your information at any time within the app settings or by contacting us.
 
 ## 6. Contact Us
-If you have any questions about this Privacy Policy, please contact us at: support@onomaster.com
+If you have any questions about this Privacy Policy, please contact us at: onomastersupport@gmail.com
